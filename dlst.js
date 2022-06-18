@@ -5,7 +5,7 @@ result.count = 0;
 result.totalPrice = 0;
 result.works = new Array();
 result.genreCount = new Map();
-var detailMode = true;
+var detailMode = false;
 
 for(var i=1;i<=lastPage;i++){
     
